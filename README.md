@@ -3,7 +3,7 @@
 > **आधुनिक, सुरक्षित और बहुभाषी मोबाइल फ़ाइल प्रबंधक एवं बहु-प्रारूप संपादक**  
 > *Modern, zero-loss, cross-platform mobile file manager and multi-format editor built with Flutter.*
 
-[![Flutter CI](https://github.com/naveenvichaar-oss/file-studio/actions/workflows/ci.yml/badge.svg)](https://github.com/naveenvichaar-oss/file-studio/actions/workflows/ci.yml)
+[![Flutter CI](https://github.com/naveenvichaar-oss/filesopener/actions/workflows/ci.yml/badge.svg)](https://github.com/naveenvichaar-oss/filesopener/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Desktop-lightgrey.svg)](https://flutter.dev)
 [![Code Style](https://img.shields.io/badge/style-pedantic-brightgreen.svg)](https://dart.dev)
@@ -107,8 +107,8 @@ lib/
 
 ### 1. क्लोन करें (Clone Repository):
 ```bash
-git clone https://github.com/naveenvichaar-oss/file-studio.git
-cd file-studio
+git clone https://github.com/naveenvichaar-oss/filesopener.git
+cd filesopener
 ```
 
 ### 2. निर्भरताएँ इंस्टॉल करें (Install Dependencies):
@@ -141,4 +141,4 @@ flutter run
 
 ## 🤝 योगदान (Contributing)
 
-यदि आप कोई नई सुविधा जोड़ना चाहते हैं या बग रिपोर्ट करना चाहते हैं, तो कृपया [Issues](https://github.com/naveenvichaar-oss/file-studio/issues) में टिकट बनाएँ या Pull Request सबमिट करें।
+यदि आप कोई नई सुविधा जोड़ना चाहते हैं या बग रिपोर्ट करना चाहते हैं, तो कृपया [Issues](https://github.com/naveenvichaar-oss/filesopener/issues) में टिकट बनाएँ या Pull Request सबमिट करें।
