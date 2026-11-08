@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.filestudio.file_studio"
-    compileSdk = flutter.compileSdkVersion
+    compileSdk = 37
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
